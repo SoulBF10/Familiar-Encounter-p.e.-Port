@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TankBitch_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tank angry port0000" x="0" y="0" width="371" height="341" frameX="-5" frameY="0" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0001" x="0" y="0" width="371" height="341" frameX="-5" frameY="0" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0002" x="401" y="0" width="387" height="326" frameX="0" frameY="-15" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0003" x="401" y="0" width="387" height="326" frameX="0" frameY="-15" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0004" x="818" y="0" width="382" height="331" frameX="0" frameY="-10" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0005" x="818" y="0" width="382" height="331" frameX="0" frameY="-10" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0006" x="818" y="0" width="382" height="331" frameX="0" frameY="-10" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0007" x="818" y="0" width="382" height="331" frameX="0" frameY="-10" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0008" x="0" y="0" width="371" height="341" frameX="-5" frameY="0" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0009" x="0" y="0" width="371" height="341" frameX="-5" frameY="0" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0010" x="401" y="0" width="387" height="326" frameX="0" frameY="-15" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0011" x="401" y="0" width="387" height="326" frameX="0" frameY="-15" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0012" x="818" y="0" width="382" height="331" frameX="0" frameY="-10" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0013" x="818" y="0" width="382" height="331" frameX="0" frameY="-10" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0014" x="818" y="0" width="382" height="331" frameX="0" frameY="-10" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0015" x="818" y="0" width="382" height="331" frameX="0" frameY="-10" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0016" x="818" y="0" width="382" height="331" frameX="0" frameY="-10" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0017" x="818" y="0" width="382" height="331" frameX="0" frameY="-10" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0018" x="818" y="0" width="382" height="331" frameX="0" frameY="-10" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank angry port0019" x="818" y="0" width="382" height="331" frameX="0" frameY="-10" frameWidth="387" frameHeight="341"/>
+	<SubTexture name="tank default port0000" x="1230" y="0" width="385" height="344"/>
+	<SubTexture name="tank default port0001" x="1230" y="0" width="385" height="344"/>
+	<SubTexture name="tank default port0002" x="1645" y="0" width="381" height="337" frameX="-2" frameY="-7" frameWidth="385" frameHeight="344"/>
+	<SubTexture name="tank default port0003" x="1645" y="0" width="381" height="337" frameX="-2" frameY="-7" frameWidth="385" frameHeight="344"/>
+	<SubTexture name="tank default port0004" x="0" y="374" width="377" height="334" frameX="-4" frameY="-10" frameWidth="385" frameHeight="344"/>
+	<SubTexture name="tank default port0005" x="0" y="374" width="377" height="334" frameX="-4" frameY="-10" frameWidth="385" frameHeight="344"/>
+	<SubTexture name="tank default port0006" x="0" y="374" width="377" height="334" frameX="-4" frameY="-10" frameWidth="385" frameHeight="344"/>
+	<SubTexture name="tank default port0007" x="0" y="374" width="377" height="334" frameX="-4" frameY="-10" frameWidth="385" frameHeight="344"/>
+	<SubTexture name="tank default port0008" x="1230" y="0" width="385" height="344"/>
+	<SubTexture name="tank default port0009" x="1230" y="0" width="385" height="344"/>
+	<SubTexture name="tank default port0010" x="1645" y="0" width="381" height="337" frameX="-2" frameY="-7" frameWidth="385" frameHeight="344"/>
+	<SubTexture name="tank default port0011" x="1645" y="0" width="381" height="337" frameX="-2" frameY="-7" frameWidth="385" frameHeight="344"/>
+	<SubTexture name="tank default port0012" x="0" y="374" width="377" height="334" frameX="-4" frameY="-10" frameWidth="385" frameHeight="344"/>
+	<SubTexture name="tank default port0013" x="0" y="374" width="377" height="334" frameX="-4" frameY="-10" frameWidth="385" frameHeight="344"/>
+	<SubTexture name="tank default port0014" x="0" y="374" width="377" height="334" frameX="-4" frameY="-10" frameWidth="385" frameHeight="344"/>
+	<SubTexture name="tank default port0015" x="0" y="374" width="377" height="334" frameX="-4" frameY="-10" frameWidth="385" frameHeight="344"/>
+	<SubTexture name="tank default port0016" x="0" y="374" width="377" height="334" frameX="-4" frameY="-10" frameWidth="385" frameHeight="344"/>
+	<SubTexture name="tank default port0017" x="0" y="374" width="377" height="334" frameX="-4" frameY="-10" frameWidth="385" frameHeight="344"/>
+	<SubTexture name="tank default port0018" x="0" y="374" width="377" height="334" frameX="-4" frameY="-10" frameWidth="385" frameHeight="344"/>
+	<SubTexture name="tank default port0019" x="0" y="374" width="377" height="334" frameX="-4" frameY="-10" frameWidth="385" frameHeight="344"/>
+	<SubTexture name="tank slouch port0000" x="407" y="374" width="380" height="310" frameX="0" frameY="-9" frameWidth="380" frameHeight="319"/>
+	<SubTexture name="tank slouch port0001" x="407" y="374" width="380" height="310" frameX="0" frameY="-9" frameWidth="380" frameHeight="319"/>
+	<SubTexture name="tank slouch port0002" x="817" y="374" width="380" height="318" frameX="0" frameY="-1" frameWidth="380" frameHeight="319"/>
+	<SubTexture name="tank slouch port0003" x="817" y="374" width="380" height="318" frameX="0" frameY="-1" frameWidth="380" frameHeight="319"/>
+	<SubTexture name="tank slouch port0004" x="1227" y="374" width="380" height="319"/>
+	<SubTexture name="tank slouch port0005" x="1227" y="374" width="380" height="319"/>
+	<SubTexture name="tank slouch port0006" x="1227" y="374" width="380" height="319"/>
+	<SubTexture name="tank slouch port0007" x="1227" y="374" width="380" height="319"/>
+	<SubTexture name="tank slouch port0008" x="407" y="374" width="380" height="310" frameX="0" frameY="-9" frameWidth="380" frameHeight="319"/>
+	<SubTexture name="tank slouch port0009" x="407" y="374" width="380" height="310" frameX="0" frameY="-9" frameWidth="380" frameHeight="319"/>
+	<SubTexture name="tank slouch port0010" x="817" y="374" width="380" height="318" frameX="0" frameY="-1" frameWidth="380" frameHeight="319"/>
+	<SubTexture name="tank slouch port0011" x="817" y="374" width="380" height="318" frameX="0" frameY="-1" frameWidth="380" frameHeight="319"/>
+	<SubTexture name="tank slouch port0012" x="1227" y="374" width="380" height="319"/>
+	<SubTexture name="tank slouch port0013" x="1227" y="374" width="380" height="319"/>
+	<SubTexture name="tank slouch port0014" x="1227" y="374" width="380" height="319"/>
+	<SubTexture name="tank slouch port0015" x="1227" y="374" width="380" height="319"/>
+	<SubTexture name="tank slouch port0016" x="1227" y="374" width="380" height="319"/>
+	<SubTexture name="tank slouch port0017" x="1227" y="374" width="380" height="319"/>
+	<SubTexture name="tank slouch port0018" x="1227" y="374" width="380" height="319"/>
+	<SubTexture name="tank slouch port0019" x="1227" y="374" width="380" height="319"/>
+</TextureAtlas>

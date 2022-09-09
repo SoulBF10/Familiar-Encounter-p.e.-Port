@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pico_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pico default port0000" x="0" y="0" width="292" height="327" frameX="0" frameY="0" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0001" x="0" y="0" width="292" height="327" frameX="0" frameY="0" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0002" x="322" y="0" width="286" height="326" frameX="-10" frameY="-1" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0003" x="322" y="0" width="286" height="326" frameX="-10" frameY="-1" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0004" x="638" y="0" width="286" height="327" frameX="-10" frameY="0" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0005" x="638" y="0" width="286" height="327" frameX="-10" frameY="0" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0006" x="638" y="0" width="286" height="327" frameX="-10" frameY="0" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0007" x="638" y="0" width="286" height="327" frameX="-10" frameY="0" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0008" x="0" y="0" width="292" height="327" frameX="0" frameY="0" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0009" x="0" y="0" width="292" height="327" frameX="0" frameY="0" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0010" x="322" y="0" width="286" height="326" frameX="-10" frameY="-1" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0011" x="322" y="0" width="286" height="326" frameX="-10" frameY="-1" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0012" x="638" y="0" width="286" height="327" frameX="-10" frameY="0" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0013" x="638" y="0" width="286" height="327" frameX="-10" frameY="0" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0014" x="638" y="0" width="286" height="327" frameX="-10" frameY="0" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0015" x="638" y="0" width="286" height="327" frameX="-10" frameY="0" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0016" x="638" y="0" width="286" height="327" frameX="-10" frameY="0" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0017" x="638" y="0" width="286" height="327" frameX="-10" frameY="0" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0018" x="638" y="0" width="286" height="327" frameX="-10" frameY="0" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico default port0019" x="638" y="0" width="286" height="327" frameX="-10" frameY="0" frameWidth="296" frameHeight="327"/>
+	<SubTexture name="pico gun port0000" x="954" y="0" width="428" height="328" frameX="-25" frameY="0" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0001" x="1412" y="0" width="431" height="328" frameX="-22" frameY="0" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0002" x="0" y="358" width="453" height="323" frameX="0" frameY="-5" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0003" x="0" y="358" width="453" height="323" frameX="0" frameY="-5" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0004" x="483" y="358" width="449" height="326" frameX="-4" frameY="-2" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0005" x="962" y="358" width="446" height="326" frameX="-7" frameY="-2" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0006" x="1438" y="358" width="446" height="326" frameX="-7" frameY="-2" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0007" x="1438" y="358" width="446" height="326" frameX="-7" frameY="-2" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0008" x="954" y="0" width="428" height="328" frameX="-25" frameY="0" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0009" x="1412" y="0" width="431" height="328" frameX="-22" frameY="0" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0010" x="0" y="358" width="453" height="323" frameX="0" frameY="-5" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0011" x="0" y="358" width="453" height="323" frameX="0" frameY="-5" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0012" x="483" y="358" width="449" height="326" frameX="-4" frameY="-2" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0013" x="962" y="358" width="446" height="326" frameX="-7" frameY="-2" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0014" x="1438" y="358" width="446" height="326" frameX="-7" frameY="-2" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0015" x="1438" y="358" width="446" height="326" frameX="-7" frameY="-2" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0016" x="1438" y="358" width="446" height="326" frameX="-7" frameY="-2" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0017" x="1438" y="358" width="446" height="326" frameX="-7" frameY="-2" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0018" x="1438" y="358" width="446" height="326" frameX="-7" frameY="-2" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico gun port0019" x="1438" y="358" width="446" height="326" frameX="-7" frameY="-2" frameWidth="453" frameHeight="328"/>
+	<SubTexture name="pico smug port0000" x="0" y="714" width="363" height="309" frameX="0" frameY="-4" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0001" x="0" y="714" width="363" height="309" frameX="0" frameY="-4" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0002" x="393" y="714" width="356" height="312" frameX="-7" frameY="-1" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0003" x="393" y="714" width="356" height="312" frameX="-7" frameY="-1" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0004" x="779" y="714" width="354" height="313" frameX="-9" frameY="0" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0005" x="779" y="714" width="354" height="313" frameX="-9" frameY="0" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0006" x="779" y="714" width="354" height="313" frameX="-9" frameY="0" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0007" x="779" y="714" width="354" height="313" frameX="-9" frameY="0" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0008" x="0" y="714" width="363" height="309" frameX="0" frameY="-4" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0009" x="0" y="714" width="363" height="309" frameX="0" frameY="-4" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0010" x="393" y="714" width="356" height="312" frameX="-7" frameY="-1" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0011" x="393" y="714" width="356" height="312" frameX="-7" frameY="-1" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0012" x="779" y="714" width="354" height="313" frameX="-9" frameY="0" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0013" x="779" y="714" width="354" height="313" frameX="-9" frameY="0" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0014" x="779" y="714" width="354" height="313" frameX="-9" frameY="0" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0015" x="779" y="714" width="354" height="313" frameX="-9" frameY="0" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0016" x="779" y="714" width="354" height="313" frameX="-9" frameY="0" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0017" x="779" y="714" width="354" height="313" frameX="-9" frameY="0" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0018" x="779" y="714" width="354" height="313" frameX="-9" frameY="0" frameWidth="363" frameHeight="313"/>
+	<SubTexture name="pico smug port0019" x="779" y="714" width="354" height="313" frameX="-9" frameY="0" frameWidth="363" frameHeight="313"/>
+</TextureAtlas>
